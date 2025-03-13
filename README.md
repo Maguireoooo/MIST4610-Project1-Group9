@@ -45,7 +45,7 @@ Simple Queries:
 
 1. Retrieves the name and price of each flower from the "flowers" table. Flower names are then listed in order of highest to lowest price.
 
-2. Creates a new variable that lists the revenue that each flower produces. This is done by joining the flower and order details tables using the repective foreign key and multiplying "flower price" from the flower table by "quantity" from the order details table. 
+2. Creates a new variable that lists the revenue that each flower produces. This is done by joining the flower and order details tables using the respective foreign key and multiplying "flower price" from the flower table by "quantity" from the order details table. 
 <img width="625" alt="Screenshot 2025-03-12 at 10 29 41 PM" src="https://github.com/user-attachments/assets/5990671c-5e0a-499a-9bcb-ef25ddbb996d" />
 <img width="621" alt="Screenshot 2025-03-12 at 10 30 09 PM" src="https://github.com/user-attachments/assets/8607968d-02c3-493a-8545-62d8dcef144f" />
 
