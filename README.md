@@ -10,7 +10,9 @@ Group 9
 # Problem Description:
 Our flower shop management system is designed to track sales, inventory, suppliers, customers, and employees in a retail flower business. This complex system helps managers efficiently manage orders, keep up with stock, enhance supplier relationships, encourage employee performance, and improve customer spending to maximize profitability and streamline our operations.​
 # Data Model:
+
 (Insert description)
+
 <img width="649" alt="Screenshot 2025-03-12 at 10 25 50 PM" src="https://github.com/user-attachments/assets/c6956e77-c507-403f-bc13-cb1ff3a16d9b" />
 
 # Data Dictionary:
@@ -55,3 +57,4 @@ Complex Queries:
 <img width="620" alt="Screenshot 2025-03-12 at 10 31 15 PM" src="https://github.com/user-attachments/assets/d13e0236-ef99-4f0d-999f-0a22ca1fc0c5" />
 
 # Database Information:
+(Not sure what to put here)
