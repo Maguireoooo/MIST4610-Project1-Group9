@@ -11,7 +11,18 @@ Group 9
 Our flower shop management system is designed to track sales, inventory, suppliers, customers, and employees in a retail flower business. This complex system helps managers efficiently manage orders, keep up with stock, enhance supplier relationships, encourage employee performance, and improve customer spending to maximize profitability and streamline our operations.​
 # Data Model:
 
-(Insert description)
+Our data model assists us in the daily management of a flower shop, and is specialized in dealing with customers, inventory, sales, and employees.
+
+Customer data, which includes names, contact details, and addresses, is maintained in the Customers table, and excels at simplifying the tracking of buyers and their orders.
+
+The Flowers table is able to show the price, stock quantity, and catalog all available flowers, specifying what type of flower it is, such as Roses, Lilies, or Orchids. Each flower is connected to a supplier, whose information is kept in the Suppliers table, which also includes contact details.
+
+The Orders table tracks customer purchases, containing the customer, order date, total price, and status (Pending, Completed, Canceled). Since a single order can include multiple flowers, the Order_Details table links orders to specific flowers and records details like quantity and price.
+
+The Employees table tracks shop workers, including attributes like names, job positions (Florist, Cashier), and salaries. Although they are not directly linked to sales, employees are essential in managing orders and helping customers.
+
+Through the connection of these tables, our flower shop is able to manage inventory, maintain supplier relationships, process customer orders, and see all employee information.
+
 
 <img width="649" alt="Screenshot 2025-03-12 at 10 25 50 PM" src="https://github.com/user-attachments/assets/c6956e77-c507-403f-bc13-cb1ff3a16d9b" />
 
