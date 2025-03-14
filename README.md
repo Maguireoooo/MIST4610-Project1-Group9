@@ -43,9 +43,9 @@ Customers table:
 # Queries:
 Simple Queries:
 
-1. Retrieves the name and price of each flower from the "flowers" table. Flower names are then listed in order of highest to lowest price.
+1. Retrieves the name and price of each flower from the "flowers" table. Flower names are then listed in order of highest to lowest price. Managers would use this query for basic inventorying purposes. 
 
-2. Creates a new variable that lists the revenue that each flower produces. This is done by joining the flower and order details tables using the respective foreign key and multiplying "flower price" from the flower table by "quantity" from the order details table.
+2. Creates a new variable that lists the revenue that each flower produces. This is done by joining the flower and order details tables using the respective foreign key and multiplying "flower price" from the flower table by "quantity" from the order details table. Managers use this to track which products are most popular; adjusting costs to meet demand. 
 
 3. 
 
@@ -55,7 +55,7 @@ Simple Queries:
 
 Complex Queries:
 
-1. Combines data from the "Orders" and "Customers" table through the customer_id column; listing the top three customers who have spent over $55. The customers shown are the companies "most valuebale customers."
+1. Combines data from the "Orders" and "Customers" table through the customer_id column; listing the top three customers who have spent over $55. The customers shown are the companies "most valuebale customers." Used to strenghten customer relationships; incentives can be given to these customers to reward loyalty and motivate future business. 
 
 (Insert description for all three)
 
