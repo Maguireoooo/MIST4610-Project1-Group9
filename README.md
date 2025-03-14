@@ -49,7 +49,7 @@ Simple Queries:
 
 3. 
 
-4. 
+   
 <img width="625" alt="Screenshot 2025-03-12 at 10 29 41 PM" src="https://github.com/user-attachments/assets/5990671c-5e0a-499a-9bcb-ef25ddbb996d" />
 <img width="621" alt="Screenshot 2025-03-12 at 10 30 09 PM" src="https://github.com/user-attachments/assets/8607968d-02c3-493a-8545-62d8dcef144f" />
 
