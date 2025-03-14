@@ -5,8 +5,8 @@ Group 9
 # Team Members:
 1. Colin Maguire @Maguireoooo
 2. Aidan Brown @breadwinner222
-3. Will Shimmons (Insert)
-4. Sid Arora (Insert)
+3. Will Shimmons @WillShimmons
+4. Sid Arora @SidhantArora4610
 # Problem Description:
 Our flower shop management system is designed to track sales, inventory, suppliers, customers, and employees in a retail flower business. This complex system helps managers efficiently manage orders, keep up with stock, enhance supplier relationships, encourage employee performance, and improve customer spending to maximize profitability and streamline our operations.​
 # Data Model:
