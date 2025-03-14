@@ -76,6 +76,10 @@ Complex Queries:
 
 
 <img width="632" alt="Screenshot 2025-03-12 at 10 30 54 PM" src="https://github.com/user-attachments/assets/fd033012-9017-4a17-8515-b37940eec1af" />
+
+3. This query retrieves data from the "Suppliers" and "Flowers" tables to identify the top three suppliers based on the number of flowers they provide to the shop. By summing the total flower quantity supplied by each vendor, the business can determine its most valuable suppliers, ensuring strong relationships and efficient inventory management.
+
+
 <img width="620" alt="Screenshot 2025-03-12 at 10 31 15 PM" src="https://github.com/user-attachments/assets/d13e0236-ef99-4f0d-999f-0a22ca1fc0c5" />
 
 # Database Information:
