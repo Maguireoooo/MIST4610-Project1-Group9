@@ -47,13 +47,15 @@ Simple Queries:
 
 2. Creates a new variable that lists the revenue that each flower produces. This is done by joining the flower and order details tables using the respective foreign key and multiplying "flower price" from the flower table by "quantity" from the order details table.
 
-3. Combines data from the "Orders" and "Customers" table through the customer_id column; listing the top three customers who have spent over $55. The customers shown are the companies "most valuebale customers."
+3. 
 
 4. 
 <img width="625" alt="Screenshot 2025-03-12 at 10 29 41 PM" src="https://github.com/user-attachments/assets/5990671c-5e0a-499a-9bcb-ef25ddbb996d" />
 <img width="621" alt="Screenshot 2025-03-12 at 10 30 09 PM" src="https://github.com/user-attachments/assets/8607968d-02c3-493a-8545-62d8dcef144f" />
 
 Complex Queries:
+
+1. Combines data from the "Orders" and "Customers" table through the customer_id column; listing the top three customers who have spent over $55. The customers shown are the companies "most valuebale customers."
 
 (Insert description for all three)
 
