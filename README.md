@@ -68,8 +68,6 @@ Complex Queries:
 
 1. Combines data from the "Orders" and "Customers" table through the customer_id column; listing the top three customers who have spent over $55. The customers shown are the companies "most valuebale customers." Used to strenghten customer relationships; incentives can be given to these customers to reward loyalty and motivate future business. 
 
-(Insert description for all three)
-
 <img width="618" alt="Screenshot 2025-03-12 at 10 30 31 PM" src="https://github.com/user-attachments/assets/fdc2da11-5813-4c3f-8508-c8db00e71cbc" />
 
 2. This query retrieves data from the "Employees" and "Orders" tables, identifying the top three employees who have handled the most orders. It provides insights into employee performance by counting the number of orders each employee has managed. This information can be used for performance evaluations, incentive programs, or workload balancing.
