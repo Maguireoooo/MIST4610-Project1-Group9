@@ -102,4 +102,6 @@ Complex Queries:
 
 
 # Database Information:
-(Not sure what to put here)
+![Database Information](https://github.com/user-attachments/assets/d542b278-b205-4287-9f5f-a37bcbc4f9dd)
+
+Name of the database: ha_group9
