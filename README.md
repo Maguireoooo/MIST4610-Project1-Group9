@@ -60,7 +60,12 @@ Simple Queries:
 2. Creates a new variable that lists the revenue that each flower produces. This is done by joining the flower and order details tables using the respective foreign key and multiplying "flower price" from the flower table by "quantity" from the order details table. Managers use this to track which products are most popular; adjusting costs to meet demand. 
 <img width="621" alt="Screenshot 2025-03-12 at 10 30 09 PM" src="https://github.com/user-attachments/assets/8607968d-02c3-493a-8545-62d8dcef144f" />
 
-3. 
+3. This Query shows all the customer details including their names, phone numbers, emails, and their addresses. This helps managers access customer information for processing orders quickly enough to improve their customer service. This also helps build long-term relationships with their customers, as it helps speed up their process.
+![Simple Query 3](https://github.com/user-attachments/assets/66241763-da14-4bae-94a7-6b8439e93c88)
+
+4. This last simple query allows all the orders to be listed with their ID, date, total price, and be sorted from newest to oldest as well as their status. This helps managers keep an organized record of transactions ensuring smooth business operations and addressing issues without delay.
+![Simple Query 4](https://github.com/user-attachments/assets/66fed7bf-be21-4fe8-a0e4-86ac888e6b93)
+
 
    
 
