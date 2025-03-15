@@ -82,5 +82,3 @@ Complex Queries:
 
 # Database Information:
 (Not sure what to put here)
-
-file:///var/folders/8y/7sqt3q594vz5pw6mg5vg0pkm0000gn/T/TemporaryItems/NSIRD_screencaptureui_YTWu5g/Screenshot%202025-03-14%20at%209.50.52%E2%80%AFPM.png
