@@ -61,9 +61,11 @@ Simple Queries:
 <img width="621" alt="Screenshot 2025-03-12 at 10 30 09 PM" src="https://github.com/user-attachments/assets/8607968d-02c3-493a-8545-62d8dcef144f" />
 
 3. This Query shows all the customer details including their names, phone numbers, emails, and their addresses. This helps managers access customer information for processing orders quickly enough to improve their customer service. This also helps build long-term relationships with their customers, as it helps speed up their process.
+   
 ![Simple Query 3](https://github.com/user-attachments/assets/66241763-da14-4bae-94a7-6b8439e93c88)
 
 4. This last simple query allows all the orders to be listed with their ID, date, total price, and be sorted from newest to oldest as well as their status. This helps managers keep an organized record of transactions ensuring smooth business operations and addressing issues without delay.
+   
 ![Simple Query 4](https://github.com/user-attachments/assets/66fed7bf-be21-4fe8-a0e4-86ac888e6b93)
 
 
@@ -84,6 +86,20 @@ Complex Queries:
 
 
 <img width="620" alt="Screenshot 2025-03-12 at 10 31 15 PM" src="https://github.com/user-attachments/assets/d13e0236-ef99-4f0d-999f-0a22ca1fc0c5" />
+
+4. This first complex query finds the top 3 best selling flowers and adds up their total quantity that is sold. This helps managers understand which flowers are popular in their customers. This helps to adjust their inventory levels and focus on high-demand products rather than flowers that don’t leave the shelves for months. This would also allow for more stock space on the flowers that sell more.
+
+![Complex Query 4](https://github.com/user-attachments/assets/82fb2907-3cba-4fb2-a87a-a46b267af142)
+
+5. The fifth query lists employees who earn more than the company’s average salary, sorting it from most to least. This allows managers to analyze the salary distribution and make sure there is fair compensation among their employees. An added benefit of this identifies the employees who are above average, assessing their performance and closely monitoring promotions.
+
+![Complex Query 5](https://github.com/user-attachments/assets/b40f230e-9787-43cd-ade0-b3e0363e71ce)
+
+6. This last query finds the top five employees by tracking highest prices on orders they handled. This also allows the managers to recognize their top employees who are responsible enough to bring large sales, and can be rewarded, improving the sales of the company and motivating the employees who continue to put the effort.
+
+![Complex Query 6](https://github.com/user-attachments/assets/a9161eee-bcbe-44f2-8079-c89b9ebc59b3)
+
+
 
 # Database Information:
 (Not sure what to put here)
